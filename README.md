@@ -22,3 +22,11 @@ Overall T-TEST
 ![image](https://github.com/encollin94/R_Project/blob/main/Suspension_3lots_ttest.png)
 
 The overall t-test is statistically significant so we can affirm the alternative hypothesis that the true mean is not equal to 1500. The LOT1 t-test is statistically significant so we can affirm the alternative hypothesis that the true mean is not equal to 1500. The LOT2 t-test is statistically significant so we can affirm the alternative hypothesis that the true mean is not equal to 1500. The LOT3 t-test is statistically significant so we can affirm the alternative hypothesis that the true mean is not equal to 1500. 
+
+## Study Design: MechaCar vs Competition
+
+What metric or metrics are you going to test? I think a good study would be to test safety. The metric to test would be safety ourcomes in a car crash based on vehicle weight. 
+What is the null hypothesis or alternative hypothesis? The null hypothesis could be that the vehical weight does not impact safety outcomes. Th alternative is that the vehicle weight does impact safety outcomes
+What statistical test would you use to test the hypothesis? And why?
+You could run 2 samplet-test against the vehicle weight and the number of people injured in car crashes. This would show if their is a statisical signficance between the two metrics
+What data is needed to run the statistical test? Number of accidents, vehicle weight and number of persons injured
